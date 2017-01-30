@@ -1,0 +1,39 @@
+DB
+
+Users
+	Id
+	Name
+	FirstName
+	Email
+	Telephone
+Roles
+	Id
+	ShortName
+UserRoles
+	Id_User
+	Id_Role
+
+Event
+	Id
+	ShortName
+	Description
+	Image
+	TicketCost
+	TicketQuantity
+	TicketsLeft
+	Location
+	EventStartDate
+	EventEndDate
+	EventSaleStartDate
+	EventSaleEndDate
+	Artist
+	Duration
+	IdType
+	IsHot
+Ticket
+	Id
+	Id_User
+	Id_Event
+EventType
+	Id
+	ShortName
