@@ -1,4 +1,0 @@
-http://tutorialzine.com/2015/04/our-favorite-jquery-plugins-and-libraries-for-spring-2015/
-
-http://t4t5.github.io/sweetalert/			Alert
-http://joaopereirawd.github.io/fakeLoader.js/		Loader
